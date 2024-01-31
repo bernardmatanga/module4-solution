@@ -12,7 +12,7 @@
     // Retrieve the first letter of the current name, convert to lowercase
     var firstLetter = name.charAt(0).toLowerCase();
     
-    // Check if the first letter is 'j'
+    // Compare the first letter to 'j'
     if (firstLetter === 'j') {
       // If it is, say Good Bye using byeSpeaker
       byeSpeaker.speak(name);
