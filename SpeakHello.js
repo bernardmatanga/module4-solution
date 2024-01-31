@@ -12,4 +12,3 @@
   window.helloSpeaker = helloSpeaker;
 
 })(window);
-
